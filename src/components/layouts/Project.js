@@ -45,7 +45,7 @@ const Project = ({ rowReverse }) => {
                 </FlexContainer>
             </PaddingContainer>
 
-            <ParaText top="1.5rem" bottom="2rem">It is a major streaming service. Offers a mix of original anime and licensed content. offers both subbed and dubbed anime, User can also save their favourite anime </ParaText>
+            <ParaText top="1.5rem" bottom="2rem">Earth Orbit App is an application used to descibe various details of space elements. This app stores data about technology used to create space satellite </ParaText>
             
             <Button href='https://geocontent.netlify.app/' target='_blank'>Visit Website</Button>
 
