@@ -33,7 +33,7 @@ const Project = ({ rowReverse }) => {
         >
 
             <FlexContainer align="center" gap="1rem">
-                <Heading as="h3" size="h3" bottom="1rem">Restaurant App</Heading>
+                <Heading as="h3" size="h3" bottom="1rem">AniWatch</Heading>
                 <IconContainer color="blue" size="2rem"><FaGithub /></IconContainer>
             </FlexContainer>
 
