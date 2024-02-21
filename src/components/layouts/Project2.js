@@ -45,7 +45,7 @@ const Project = ({ rowReverse }) => {
                 </FlexContainer>
             </PaddingContainer>
 
-            <ParaText top="1.5rem" bottom="2rem">It typically includes features such as a menu with prices, the ability to place an order, and the option to pay for the order directly through the app. Some restaurant applications also allow customers to make reservations, view the restaurant's location and hours, and access special deals or promotions.</ParaText>
+            <ParaText top="1.5rem" bottom="2rem">Aniwatch is an online anime streaming app. It is used to stream anime, they can be watched in sub dub and many other languages.They also come with the ability to watch with others and your friends </ParaText>
             
             <Button href='https://nathanzoroclone.netlify.app/' target='_blank'>Visit Website</Button>
 
